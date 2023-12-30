@@ -1,2 +1,2 @@
 # Project-Landing-Page
-Projeto do Odin Project "Landng Page"
+Projeto do Odin Project "Landing Page"
