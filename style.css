@@ -17,8 +17,7 @@ body {
     background-color: #1F2937;
 }
 
-/* container com header logo e links de navegação */
-.navbar {
+header {
     display: flex;
 
     /* centraliza os links e a 'header logo' horizontalmente*/
@@ -31,14 +30,12 @@ body {
     margin-bottom: 50px;
 }
 
-/* header logo */
-.navbar h1 {
-    display: flex;
+header h1 {
+    flex: 1;
     color: #F9FAF8;
     font-size: 24px;
 }
 
-/* links da navegação */
 .navbar ul {
     display: flex;
     list-style: none;
